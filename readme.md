@@ -1,6 +1,6 @@
 # Python Training: MongoDB
 
-Studying how work on MongoDB with Python.
+Studying how to work with MongoDB and Python.
 
 ## Getting Started
 
